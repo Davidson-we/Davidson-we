@@ -1,4 +1,4 @@
-<!-- Personalized GitHub README for David Olarinde -->
+ <!-- Personalized GitHub README for David Olarinde -->
 <div align="center">
   <h1 style="margin-bottom:6px">David Olarinde</h1>
   <p style="margin-top:0;color:#374151;">Aspiring Software Engineer • Back-End Developer (in training) • Data Analytics Enthusiast</p>
@@ -89,44 +89,4 @@
   <p style="font-size:12px;color:#6b7280">
     Last updated: October 2025 • Built with discipline, curiosity, and creativity 💡
   </p>
-</footer>  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="65" alt="JavaScript Logo"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="75" alt="PHP Logo"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/MySQL_textlogo.svg" width="80" alt="MySQL Logo"/>
-</p>
-
----
-
-### 💡 Projects I Want to Build
-- 🧾 **Payment & Account Management APIs**  
-  Building secure, scalable systems for transactions and account management.  
-
-- 📊 **Data Dashboards**  
-  Creating visualization tools that make analytics simple and clear.  
-
-- 🔐 **Authentication Systems**  
-  Implementing strong and user-friendly login and access control features.  
-
-- 📈 **Market Visualization Tools**  
-  Designing dashboards that turn raw market data into insights.  
-
----
-
-### 📘 Experience
-💻 Currently developing my skills in **Back-End Web Development**  
-📚 Expanding knowledge in **Data Analytics** and **Cybersecurity Fundamentals**  
-🌱 Committed to continuous learning and open collaboration.
-
----
-
-### 🌐 Connect With Me
-
-📧 **Email:** [olarindedavid469@gmail.com](mailto:olarindedavid469@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/david-olarinde-404306383](https://www.linkedin.com/in/david-olarinde-404306383?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-🐙 **GitHub:** [github.com/davidolarinde](https://github.com/davidolarinde)
-
----
-
-### ✨ Fun Fact
-When I’m not coding, I enjoy exploring how tech shapes business, and I believe every line of code can make life easier for someone.
-
----
+</footer>
